@@ -7,4 +7,4 @@ Repositório pra a Aula de Banco de Dados 2020.2
 
 ## Sumário
 
-* Requisitos
+* [Requisitos](docs/REQUISITOS.md)
